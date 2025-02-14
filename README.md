@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sushma
 
-🔹 Test Engineer | Automation Enthusiast | Video & GPU Testing
+🔹 **Test Engineer | Automation Enthusiast | Video & GPU Testing**
 🔹 3+ years of experience in **device testing, automation, and test engineering**  
 🔹 Skilled in **Python, Pytest, Linux, AWS, and automation frameworks**  
 🔹 Passionate about **video encoding/decoding, GPU testing, and process improvement**  
