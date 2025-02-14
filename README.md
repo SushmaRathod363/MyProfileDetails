@@ -16,7 +16,7 @@
 
 ---
 
-🚀 What I'm Working On  
+## 🚀 What I'm Working On  
 🔸 Video Playback Testing – Continuous video loop testing, debugging playback issues  
 🔸 WiFi Stability Testing – Verifying network stability under various conditions  
 🔸 2D/3D GPU Testing – Running benchmarks using **GLMark** and gaming apps  
@@ -24,7 +24,7 @@
 
 ---
 
-📊 Recent Achievements  
+## 📊 Recent Achievements  
 🏆 Verified **100% video decoder performance** on MXC app (Build 273)  
 🏆 Debugged and improved **VLC hardware acceleration issues** at 1280x720 resolution  
 🏆 Successfully tested **YouTube video stability** with resolution switching  
@@ -32,7 +32,7 @@
 
 ---
 
-📫 Let's Connect  
+##📫 Let's Connect  
 💼 LinkedIn:(https://www.linkedin.com/in/sushma-rathod-046664180/) 
 
-🚀 Always open to learning, collaborating, and optimizing testing strategies!  
+## 🚀 Always open to learning, collaborating, and optimizing testing strategies!  
